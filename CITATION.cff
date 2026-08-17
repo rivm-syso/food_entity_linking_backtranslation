@@ -5,6 +5,7 @@ cff-version: 1.2.0
 title: >-
   Code for manuscript 'Back and Forth Food Entity Linking
   via Reranking based on Back-translation'
+version: 1.0.0
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -21,4 +22,10 @@ abstract: >-
   Linking via Reranking based on Back-translation'.
 keywords:
   - Food Entity Linking
+  - NEVO
+  - FoodData Central
+  - KAP
+  - FoodOn
+  - BERT
+  - text-embedding-ada-002
 license: EUPL-1.2
