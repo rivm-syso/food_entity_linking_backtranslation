@@ -1,6 +1,5 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: >-
   Code for manuscript 'Back and Forth Food Entity Linking
@@ -29,3 +28,5 @@ keywords:
   - BERT
   - text-embedding-ada-002
 license: EUPL-1.2
+doi: 10.21945/099b3453-e813-4919-a651-9eb1074797e7
+date-released: 2026-08-17
